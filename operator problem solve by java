@@ -1,0 +1,22 @@
+
+// a+b+c: sum;
+
+// you can use it for other operators -,/,*,+,% etc.
+         Scanner s = new Scannner(System.in);
+          char c=' ';
+        
+          int j=0;
+          do{ 
+            int a=s.nextInt();
+             
+                 sum +=a;
+             
+             System.out.print(c+" "+a+" ");
+             
+            j--;
+            if(i==j){
+                c='+';    // use here +,-,/,*,%.......
+
+            }
+          }while(j>=0);
+          
