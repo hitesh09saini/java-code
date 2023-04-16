@@ -1,0 +1,35 @@
+public class timer {
+
+    public static void main(String[] args) throws InterruptedException {
+
+        int hour = 00, minute = 00, second = 00 , day =0;
+        
+
+        while (true) {
+            
+            Thread.sleep(2);
+            second++;
+            if (second > 59) {
+                second = 00;
+                
+                minute++;
+              if(minute>59){
+                minute=00;
+                hour++;
+                if(hour>24){
+                    hour = 00;
+                  day++;
+
+                }
+
+            }
+              }
+              System.out.println(day+" : "+hour + " : " + minute + " : " + second);
+            }
+            
+
+            
+        }
+
+    }
+
