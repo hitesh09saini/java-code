@@ -1,0 +1,274 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "subarray",
+            "request": "launch",
+            "mainClass": "subarray",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "pairs",
+            "request": "launch",
+            "mainClass": "pairs",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "reverse1",
+            "request": "launch",
+            "mainClass": "reverse1",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "numberpyramind",
+            "request": "launch",
+            "mainClass": "numberpyramind",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "duplicate",
+            "request": "launch",
+            "mainClass": "duplicate",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "sumn",
+            "request": "launch",
+            "mainClass": "sumn",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "dfghj",
+            "request": "launch",
+            "mainClass": "dfghj",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "chocolatedistribution",
+            "request": "launch",
+            "mainClass": "chocolatedistribution",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "sort",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "stockspan",
+            "request": "launch",
+            "mainClass": "stockspan",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "array3d",
+            "request": "launch",
+            "mainClass": "array3d",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "reverseStack1",
+            "request": "launch",
+            "mainClass": "reverseStack1",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "stringreverse",
+            "request": "launch",
+            "mainClass": "stringreverse",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "bottommy",
+            "request": "launch",
+            "mainClass": "bottommy",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "invalidpatternStack",
+            "request": "launch",
+            "mainClass": "invalidpatternStack",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "reverseStack",
+            "request": "launch",
+            "mainClass": "reverseStack",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "stackcode",
+            "request": "launch",
+            "mainClass": "stackcode",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "zomzto",
+            "request": "launch",
+            "mainClass": "zomzto",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "stacklinked",
+            "request": "launch",
+            "mainClass": "stacklinked",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "stackclass",
+            "request": "launch",
+            "mainClass": "stackclass",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "different_pattern_printer",
+            "request": "launch",
+            "mainClass": "different_pattern_printer",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "inverseString",
+            "request": "launch",
+            "mainClass": "inverseString",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "diagonal",
+            "request": "launch",
+            "mainClass": "diagonal",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "spiralmatrix",
+            "request": "launch",
+            "mainClass": "spiralmatrix",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "arrayswap",
+            "request": "launch",
+            "mainClass": "arrayswap",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "look",
+            "request": "launch",
+            "mainClass": "look",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "GST",
+            "request": "launch",
+            "mainClass": "GST",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "twonumsum",
+            "request": "launch",
+            "mainClass": "twonumsum",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "hackerRank",
+            "request": "launch",
+            "mainClass": "hackerRank",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "geeks",
+            "request": "launch",
+            "mainClass": "geeks",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "matrixlink",
+            "request": "launch",
+            "mainClass": "matrixlink",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "tictactoc1",
+            "request": "launch",
+            "mainClass": "tictactoc1",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "reverselink",
+            "request": "launch",
+            "mainClass": "reverselink",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "link2",
+            "request": "launch",
+            "mainClass": "link2",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
+            "name": "dsal",
+            "request": "launch",
+            "mainClass": "dsal",
+            "projectName": "Java Programming_823bfb58"
+        }
+    ]
+}

@@ -13,14 +13,15 @@ StringBuilder s = new StringBuilder(p);
 
             char frontchar =s.charAt(front);
             char backchar = s.charAt(back);
+            
 
          s.setCharAt(front , backchar); 
 
          s.setCharAt(back, frontchar);
-         s.setLength(5);
+        //  s.setLength(5);
          
         }
-
+       
     
         System.out.println(s);
     }

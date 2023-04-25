@@ -26,6 +26,7 @@ public class bubblesorting {
         //     System.out.print(arr[m]);
         // }
        // int arr[]={1,4,6,9,5};
+       
         // sorting
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = 0; j < arr.length - 1 - i; j++) {

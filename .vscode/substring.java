@@ -8,7 +8,7 @@ do{
 Scanner s = new Scanner(System.in);
 String name = s.nextLine();
 
-String p =  name.substring(0,0);
+String p =  name.substring(0,2);
 
 
 
