@@ -16,7 +16,7 @@ public class subarray {
                     s += a[k];
                 }
                 max = Math.max(max, s);
-
+                
                 min = Math.min(s, min);
                 s = 0;
                 System.out.print("] ");
@@ -26,7 +26,7 @@ public class subarray {
         }
         System.out.print("count of subarray : " + c + "\n[");
 
-        for (int i = st; i <= en; i++) {
+        for (int i = 0; i <a.length; i++) {
             System.out.print(" " + a[i] + " ");
 
         }

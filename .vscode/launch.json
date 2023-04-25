@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "kadane",
+            "request": "launch",
+            "mainClass": "kadane",
+            "projectName": "Java Programming_823bfb58"
+        },
+        {
+            "type": "java",
             "name": "subarray",
             "request": "launch",
             "mainClass": "subarray",
