@@ -1,5 +1,6 @@
 public class kadane {
     public static void maximumkadane(int b[]) {
+        // FOR POSITIVE NUMBER 
         int ms = Integer.MIN_VALUE;
         int cs =0;
         for(int i =0;i<b.length;i++){
@@ -10,14 +11,18 @@ public class kadane {
             }
               ms = Math.max(cs, ms);
            
-        }if(ms ==0){
+        }
+        // FOR NEGATIVE NUMBER 
+        if(ms ==0){
         ms = Integer.MIN_VALUE;
+
         for(int i =0;i<b.length;i++){
             
                 ms = Math.max(ms, b[0]);
             }
         }
-        
+
+        // PRINT 
         System.out.println(" maximum is : "+ms);
     }
     public static void main(String[] args) {
