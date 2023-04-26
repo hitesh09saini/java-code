@@ -22,6 +22,7 @@ public class trapwaterbyarray {
         // min of both
         for (int i = 0; i < n; i++) {
             int boundry = Math.min(left[i], right[i]);
+            
 
             trap += (boundry - a[i]) * width;
 
