@@ -9,11 +9,13 @@ public class beststock {
             }else{
                 bp = b[i];
             }
-        }
-        System.out.println("max profit "+maxprofit);
+        }System.out.println("max profit "+maxprofit);
+
+        System.out.println("buy Stock : "+bp +" And selling on : "+(maxprofit+bp));
+        
     }
     public static void main(String[] args) {
-        int a []= {7,1,5,3,6,4};
+        int a []= {7,4,5,3,5,4};
         Stock(a);
     }
 }
